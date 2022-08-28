@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @0abhig
 - 🌱 I’m currently learning Full Stack Web Development
-
+- 📫 How to reach me 0abhig@gmail.com
